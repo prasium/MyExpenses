@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_expenses
 
 A budget keeping app.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# MyExpenses
+Daily Expense keeping flutter app
+>>>>>>> 8de40ef2986edb1941bc9e7c27398778aff97479
