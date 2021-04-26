@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # my_expenses
 
 A budget keeping app.
