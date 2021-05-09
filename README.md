@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# my_expenses
+# MyExpenses
 
 A budget keeping app.
 
